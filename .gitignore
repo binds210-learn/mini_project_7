@@ -66,3 +66,4 @@ Desktop.ini
 # --------------------------------------------------
 # Add additional patterns here when necessary.
 # Do not exclude all CSV, notebook or presentation files.
+.venv_conda_backup/
