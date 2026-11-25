@@ -1,0 +1,37 @@
+Classification:
+
+Categorical
+- marital status
+- application mode
+- Course
+- daytime / evening
+- nationality
+- displaced
+- educational special needs
+- debtor
+- tuition fees
+- gender
+- scholarship holder
+- age at enrollment
+- international
+
+Ordinal
+- Application order
+- Previous qualification - VALUES COUNTS? 
+- Mother qualification - VALUES COUNTS? 
+- Father qualication - VALUES COUNTS? 
+- Mother occupation - VALUES COUNTS? 
+- Father occupation - VALUES COUNTS? 
+
+Numerical
+- Curricular units (credited)
+- Curricular units (enrolled)
+- Curricular units (evaluations)
+- Curricular units (approved)
+- Curricular units (grade)
+- Curricular units (without eval)
+- Umemployment rate
+- Inflation rate
+- GDP
+
+

@@ -1,0 +1,38 @@
+CATEGORIZATION
+
+Application Approach
+- Application mode
+- Application order
+
+Parental / Family Background
+- Mother's Qualification
+- Father's Qualification
+- Mother's Occupation
+- Father's Occupation
+- Marital Status
+
+Financial Indicators
+- Tuition fees up to date
+- Debtor
+- Scholarship holder
+
+Personal Characteristics & Prior Academic Background
+- Previous Qualification
+- Previous Qualification (Grade)
+- Admission Grade
+- Educational special needs
+- Displaced
+- Gender
+- Age at enrollment
+- International
+- Nacionality
+
+Curriculum & Study Mode
+- Course
+- Daytime / Evening attendance
+- All curricular units features (1st and 2nd semester: credited, enrolled, evaluations, approved, grade, without evaluations)
+
+Societal / Macroeconomic Predictors
+- Unemployment rate
+- Inflation rate
+- GDP
