@@ -1,0 +1,795 @@
+application_mode_group,course_name,prev_qual_level,debtor,tuition_fees_up_to_date,gender,scholarship_holder,curricular_units_2nd_sem_enrolled,curricular_units_2nd_sem_approved,curricular_units_2nd_sem_grade,age_at_enrollment,admission_grade
+3rd phase - general contingent,Social Service,2,0,1,0,0,6,2,11.0,18,137.4
+1st phase - general contingent,Basic Education,2,0,1,0,0,7,6,13.5,18,124.6
+3rd phase - general contingent,Oral Hygiene,2,0,1,0,0,8,8,11.425,20,121.8
+1st phase - general contingent,Social Service,2,1,1,0,1,6,4,11.0,18,157.0
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,4,13.0,18,131.0
+2nd phase - general contingent,Nursing,2,0,1,1,0,7,6,13.716666666666669,19,118.8
+Prior qualification,Agronomy,3,0,1,1,0,6,5,10.571428571428571,21,150.0
+1st phase - general contingent,Management,2,0,0,1,0,5,2,13.5,18,138.8
+2nd phase - general contingent,Management (evening attendance),2,0,1,0,0,5,3,14.333333333333334,24,134.1
+1st phase - general contingent,Nursing,2,0,1,0,1,8,6,11.833333333333334,19,121.3
+1st phase - general contingent,Journalism and Communication,2,0,1,0,1,6,3,11.0,20,121.8
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,115.2
+2nd phase - general contingent,Animation and Multimedia Design,2,0,1,1,1,0,0,0.0,19,126.0
+2nd phase - general contingent,Communication Design,2,0,1,1,0,6,1,10.0,19,130.2
+Transfer / change,Communication Design,2,0,1,1,0,6,0,0.0,24,120.9
+Over 23 years old,Tourism,2,0,1,1,0,6,5,10.8,26,100.0
+2nd phase - general contingent,Management,2,0,1,1,0,5,0,0.0,18,134.0
+2nd phase - general contingent,Tourism,2,0,1,1,0,5,3,11.333333333333334,18,125.5
+1st phase - general contingent,Management,2,0,1,1,0,5,5,13.8,23,128.7
+Transfer / change,Informatics Engineering,2,1,1,1,0,5,0,0.0,18,112.2
+International student (bachelor),Informatics Engineering,2,0,1,1,0,5,3,13.25,19,137.0
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,5,13.8,19,134.3
+2nd phase - general contingent,Basic Education,2,0,1,0,0,7,3,13.0,20,107.0
+2nd phase - general contingent,Management,2,0,1,0,1,5,3,11.0,18,115.3
+Transfer / change,Nursing,2,0,1,0,0,7,7,13.0,20,100.0
+2nd phase - general contingent,Social Service,2,0,1,0,1,6,4,10.75,20,140.4
+2nd phase - general contingent,Management,2,0,1,0,0,5,3,10.666666666666666,20,113.4
+1st phase - general contingent,Basic Education,2,0,1,0,1,6,5,13.4,18,145.3
+1st phase - general contingent,Nursing,2,0,1,0,1,8,7,12.892857142857142,20,112.1
+Transfer / change,Management,2,1,0,0,0,5,0,0.0,22,99.7
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,121.7
+2nd phase - general contingent,Basic Education,2,0,1,0,0,6,5,10.833333333333334,18,124.7
+Over 23 years old,Agronomy,2,1,1,0,0,6,0,0.0,47,170.0
+Over 23 years old,Veterinary Nursing,2,0,1,0,0,5,4,10.5,28,130.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,1,5,4,13.5,18,123.0
+Prior qualification,Management (evening attendance),3,0,1,0,1,6,6,13.166666666666666,26,140.0
+Transfer / change,Social Service,2,1,0,0,0,6,4,10.0,21,126.6
+1st phase - general contingent,Social Service (evening attendance),2,0,1,0,0,5,1,10.0,23,122.8
+Over 23 years old,Nursing,2,0,1,0,0,3,3,11.333333333333334,35,105.9
+Over 23 years old,Oral Hygiene,4,0,1,0,0,8,8,13.3125,25,145.0
+1st phase - general contingent,Nursing,2,0,1,0,0,7,7,11.4625,19,119.4
+1st phase special (islands),Animation and Multimedia Design,2,0,1,0,0,13,9,13.555555555555555,24,155.0
+1st phase - general contingent,Communication Design,2,0,1,0,0,6,5,12.4,19,125.4
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,0,0.0,18,123.2
+2nd phase - general contingent,Communication Design,2,0,1,0,0,6,6,12.5,18,110.8
+1st phase - general contingent,Nursing,2,0,1,0,1,8,8,13.775,18,142.3
+2nd phase - general contingent,Communication Design,2,0,1,0,0,6,6,12.333333333333334,18,113.9
+Prior qualification,Agronomy,3,0,1,0,0,6,5,13.0,24,140.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,4,11.0,19,115.5
+2nd phase - general contingent,Nursing,2,0,1,0,0,8,6,13.083333333333334,20,147.8
+1st phase special (islands),Veterinary Nursing,2,0,1,0,0,5,3,13.0,19,128.8
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,5,11.4,18,125.0
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,5,11.6,18,136.8
+1st phase - general contingent,Basic Education,2,0,1,0,0,7,6,12.666666666666666,18,121.6
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,3,12.0,19,125.9
+Transfer / change,Management,2,0,1,0,0,5,2,12.0,26,130.0
+Transfer / change,Social Service,2,0,1,0,0,13,9,12.307692307692308,36,110.0
+1st phase - general contingent,Social Service (evening attendance),2,0,1,0,0,6,4,11.25,20,100.0
+Over 23 years old,Agronomy,2,1,1,0,1,6,0,0.0,30,130.0
+2nd phase - general contingent,Management,2,0,1,0,0,5,4,11.0,20,112.0
+1st phase - general contingent,Nursing,2,0,1,0,0,7,5,13.98,19,133.0
+2nd phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,5,11.2,19,131.2
+Over 23 years old,Management (evening attendance),2,0,1,0,1,5,4,10.833333333333334,31,148.0
+Transfer / change,Social Service (evening attendance),0,1,1,0,0,11,10,12.8,42,104.0
+2nd phase - general contingent,Basic Education,2,0,0,0,1,7,6,13.333333333333334,18,116.6
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,2,13.5,21,140.0
+Transfer / change,Nursing,2,0,1,0,0,8,8,13.75,20,100.0
+1st phase - general contingent,Social Service,2,0,1,0,0,6,3,10.333333333333334,19,121.0
+2nd phase - general contingent,Basic Education,2,0,1,0,0,6,5,12.4,22,122.5
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,1,11.0,21,140.0
+Over 23 years old,Nursing,2,0,1,0,0,8,5,12.14,26,140.0
+2nd phase - general contingent,Communication Design,2,0,1,0,1,6,4,11.2,18,128.9
+2nd phase - general contingent,Tourism,2,0,1,0,0,6,3,10.333333333333334,20,121.7
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,3,11.0,19,114.8
+1st phase - general contingent,Tourism,2,0,1,0,0,6,4,12.75,19,127.0
+2nd phase - general contingent,Management,2,0,1,0,0,5,2,10.666666666666666,20,112.2
+2nd phase - general contingent,Tourism,2,0,1,0,1,6,6,10.5,20,118.2
+Transfer / change,Oral Hygiene,2,0,1,0,0,4,1,16.0,18,100.0
+Transfer / change,Equinculture,2,1,1,0,0,5,3,12.0,18,120.7
+1st phase - general contingent,Tourism,2,0,1,0,1,6,5,12.8,20,114.3
+1st phase - general contingent,Management,2,0,1,0,0,5,4,11.25,19,132.4
+2nd phase - general contingent,Social Service,2,0,1,0,0,6,4,10.4,20,129.8
+1st phase - general contingent,Basic Education,2,0,1,0,0,8,8,12.625,20,131.3
+2nd phase - general contingent,Social Service,2,0,1,0,1,6,5,11.8,21,118.6
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,2,13.0,20,140.0
+1st phase - general contingent,Veterinary Nursing,2,1,1,0,0,6,4,11.4,22,101.0
+1st phase - general contingent,Basic Education,2,0,1,0,0,7,6,12.833333333333334,18,116.9
+2nd phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,5,12.6,20,120.4
+1st phase - general contingent,Communication Design,2,0,0,0,0,6,4,10.833333333333334,18,132.0
+Over 23 years old,Nursing,0,0,1,0,0,7,3,12.525,27,143.7
+Over 23 years old,Biofuel Production Technologies,2,0,1,0,0,7,5,13.8,26,152.8
+1st phase - general contingent,Communication Design,2,0,1,0,0,6,0,0.0,18,120.7
+Over 23 years old,Informatics Engineering,0,0,1,1,0,5,3,10.5,24,100.9
+2nd phase - general contingent,Management,2,0,1,1,1,5,3,11.666666666666666,19,116.9
+1st phase - general contingent,Management,2,0,1,1,0,5,2,12.0,20,118.4
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,1,5,5,12.6,18,121.1
+1st phase - general contingent,Management,2,0,1,1,0,5,3,11.0,20,121.8
+Over 23 years old,Informatics Engineering,4,0,1,1,0,5,2,13.5,25,146.8
+1st phase - general contingent,Advertising and Marketing Management,2,1,1,1,0,6,2,14.5,22,138.0
+1st phase - general contingent,Nursing,2,0,1,1,0,8,6,13.496666666666668,18,138.0
+2nd phase - general contingent,Management,2,0,1,1,0,5,3,12.0,20,117.8
+Prior qualification,Tourism,3,1,1,1,0,6,3,10.666666666666666,23,130.0
+1st phase - general contingent,Equinculture,2,0,1,1,0,5,3,12.666666666666666,20,143.9
+1st phase - general contingent,Management,2,0,1,1,0,5,5,10.833333333333334,20,116.8
+Over 23 years old,Management (evening attendance),2,0,1,0,1,5,5,10.2,28,150.0
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,6,13.285714285714286,19,128.8
+1st phase - general contingent,Nursing,2,0,1,0,0,7,5,11.7,19,126.7
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,4,13.0,20,134.7
+2nd phase - general contingent,Agronomy,2,1,1,0,0,6,5,14.0,20,113.2
+Transfer / change,Nursing,2,0,1,0,1,7,5,11.98,18,124.3
+2nd phase - general contingent,Management,2,0,1,0,0,5,5,13.2,20,118.0
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,4,11.75,19,140.0
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,4,13.0,19,109.7
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,11.4,27,123.2
+1st phase - general contingent,Management,2,0,1,0,0,5,2,11.0,18,116.5
+1st phase - general contingent,Management,2,0,1,0,0,5,3,12.333333333333334,18,121.0
+1st phase - general contingent,Nursing,2,0,1,0,0,8,8,14.26875,18,133.8
+1st phase - general contingent,Management,2,0,1,0,1,5,3,13.333333333333334,19,131.8
+1st phase - general contingent,Social Service,2,0,1,0,0,6,1,10.0,21,121.0
+Prior qualification,Veterinary Nursing,3,0,0,0,0,9,6,13.5,23,143.3
+1st phase - general contingent,Social Service,2,1,1,0,1,6,3,10.0,19,114.9
+1st phase - general contingent,Social Service,2,1,1,0,0,6,2,10.0,18,121.0
+1st phase - general contingent,Nursing,2,0,1,0,0,7,6,11.708333333333334,19,117.4
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,4,12.0,18,126.7
+1st phase - general contingent,Tourism,2,0,1,1,0,6,4,13.0,21,130.0
+1st phase - general contingent,Tourism,2,0,1,1,0,6,5,10.8,20,137.2
+Prior qualification,Veterinary Nursing,3,0,0,1,0,6,3,12.0,20,130.0
+Transfer / change,Management (evening attendance),3,0,1,1,0,5,5,17.6,37,123.0
+Transfer / change,Advertising and Marketing Management,2,0,1,1,0,6,5,12.4,18,138.5
+1st phase - general contingent,Tourism,2,0,1,1,0,6,6,12.0,23,113.6
+Transfer / change,Advertising and Marketing Management,2,0,1,1,0,6,5,11.2,18,133.3
+Transfer / change,Journalism and Communication,2,0,1,1,0,7,6,12.333333333333334,32,116.9
+1st phase - general contingent,Animation and Multimedia Design,2,1,1,1,0,11,10,11.181818181818182,19,146.5
+1st phase special (islands),Animation and Multimedia Design,2,0,1,1,0,0,0,0.0,20,144.7
+International student (bachelor),Management,2,1,1,1,0,5,1,10.0,40,100.0
+1st phase - general contingent,Management,2,0,1,1,0,5,5,11.2,20,111.3
+Prior qualification,Equinculture,3,0,1,0,0,5,4,12.4,20,150.0
+1st phase - general contingent,Nursing,2,0,1,0,0,8,7,13.294444444444444,19,131.1
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,6,4,12.2,19,123.9
+2nd phase - general contingent,Basic Education,2,0,1,0,0,7,6,14.333333333333334,20,110.6
+1st phase - general contingent,Nursing,2,0,1,0,0,8,6,13.345,18,129.0
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,4,12.75,18,137.2
+Prior qualification,Communication Design,3,0,0,0,1,6,4,12.0,22,130.0
+2nd phase - general contingent,Management,2,1,1,0,0,5,3,10.0,20,113.5
+1st phase - general contingent,Equinculture,2,1,0,0,0,6,4,13.0,23,141.3
+1st phase - general contingent,Communication Design,2,0,1,0,0,6,6,11.5,20,121.3
+Transfer / change,Management,2,0,1,0,0,5,3,12.666666666666666,21,120.0
+2nd phase - general contingent,Communication Design,2,0,1,0,0,6,6,11.5,20,130.8
+2nd phase - general contingent,Nursing,2,0,0,0,1,8,7,13.164285714285716,20,125.4
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,7,6,13.2,20,131.6
+Transfer / change,Equinculture,2,1,1,0,0,5,2,12.5,21,120.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,2,11.0,18,121.8
+Transfer / change,Oral Hygiene,2,0,1,1,0,7,2,13.5,23,126.6
+2nd phase - general contingent,Management,2,0,0,1,0,5,4,14.0,22,115.7
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,5,12.714285714285714,18,113.3
+1st phase special (islands),Basic Education,2,0,1,0,0,6,4,11.25,22,112.6
+2nd phase - general contingent,Informatics Engineering,2,1,0,1,0,5,0,0.0,18,120.4
+1st phase - general contingent,Oral Hygiene,2,0,1,1,1,8,6,11.583333333333334,21,131.5
+1st phase - general contingent,Tourism,2,0,1,0,0,6,4,11.0,21,113.8
+2nd phase - general contingent,Social Service,2,0,1,0,0,6,3,10.0,20,130.0
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,3,11.333333333333334,37,110.0
+Over 23 years old,Social Service (evening attendance),2,1,1,0,0,7,6,12.166666666666666,37,100.0
+Over 23 years old,Veterinary Nursing,2,1,1,0,0,6,0,0.0,28,129.3
+1st phase - general contingent,Management,2,0,1,0,0,5,2,12.5,18,122.2
+Over 23 years old,Nursing,2,0,1,0,0,8,7,11.705714285714285,34,121.3
+Prior qualification,Management (evening attendance),3,0,1,0,0,7,7,13.428571428571429,31,150.0
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,4,12.25,18,131.7
+Over 23 years old,Social Service,0,0,1,0,0,5,0,0.0,31,130.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,2,12.5,18,141.0
+Over 23 years old,Informatics Engineering,2,0,1,1,0,5,2,10.5,24,120.0
+2nd phase - general contingent,Informatics Engineering,2,1,0,1,0,5,3,10.333333333333334,18,116.9
+Over 23 years old,Management (evening attendance),2,0,1,1,1,5,5,11.4,41,113.0
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,4,10.833333333333334,34,145.6
+1st phase - general contingent,Nursing,2,0,1,0,1,7,6,13.55,20,107.8
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,2,11.5,22,130.0
+1st phase - general contingent,Basic Education,2,0,1,0,1,6,4,10.75,18,115.1
+1st phase - general contingent,Communication Design,2,0,1,0,1,6,6,14.0,18,118.0
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,5,10.6,18,121.6
+1st phase - general contingent,Basic Education,2,1,1,0,0,6,4,11.75,18,146.6
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,5,12.5,19,142.2
+Transfer / change,Communication Design,2,0,1,0,0,6,4,12.6,21,120.0
+2nd phase - general contingent,Basic Education,2,0,1,0,0,7,6,13.333333333333334,18,108.8
+Transfer / change,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,133.0
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,4,10.25,18,120.0
+Transfer / change,Management,2,0,1,0,0,10,7,10.571428571428571,21,113.2
+1st phase - general contingent,Nursing,2,0,1,0,1,7,6,12.5,20,106.7
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,3,11.333333333333334,25,140.0
+Over 23 years old,Oral Hygiene,2,0,1,0,0,8,5,11.7,25,159.0
+Over 23 years old,Social Service,2,0,1,0,0,6,5,16.4,24,140.0
+1st phase - general contingent,Management,2,0,1,0,0,5,3,10.666666666666666,19,131.0
+2nd phase - general contingent,Management,2,0,1,0,1,5,3,11.0,19,123.8
+1st phase special (islands),Management,2,0,1,0,1,5,4,12.625,20,122.6
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,132.8
+3rd phase - general contingent,Basic Education,2,0,1,0,0,7,6,12.166666666666666,18,115.8
+2nd phase - general contingent,Management,2,0,1,0,0,5,3,14.428571428571429,19,107.8
+1st phase - general contingent,Nursing,2,0,1,0,0,7,5,13.76,19,127.5
+1st phase - general contingent,Management,2,0,1,0,0,5,4,12.0,19,117.3
+Prior qualification,Nursing,4,0,1,0,0,7,7,12.6375,32,130.0
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,5,12.666666666666666,24,115.2
+1st phase - general contingent,Nursing,2,0,1,0,0,8,6,11.933333333333332,19,96.0
+Prior qualification,Nursing,4,0,1,0,0,10,10,12.96818181818182,45,120.0
+2nd phase - general contingent,Basic Education,2,0,1,0,0,7,7,12.714285714285714,18,128.5
+Over 23 years old,Agronomy,0,1,1,0,0,6,6,12.9,37,120.0
+2nd phase - general contingent,Social Service,2,0,1,0,1,6,5,11.5,20,113.2
+1st phase - general contingent,Nursing,2,0,1,0,1,7,7,12.228571428571428,18,121.3
+Prior qualification,Veterinary Nursing,3,1,1,0,0,9,5,12.2,21,140.0
+Over 23 years old,Informatics Engineering,0,0,1,1,0,5,1,10.0,25,100.0
+Prior qualification,Advertising and Marketing Management,3,1,1,0,0,6,1,11.0,21,140.0
+Transfer / change,Veterinary Nursing,2,0,1,0,0,5,4,14.75,19,170.0
+Prior qualification,Management (evening attendance),2,1,1,0,0,9,5,12.6,23,135.0
+2nd phase - general contingent,Journalism and Communication,2,0,1,0,0,6,6,12.428571428571429,18,113.7
+Over 23 years old,Social Service (evening attendance),2,0,1,1,1,6,4,11.5,24,116.5
+1st phase - general contingent,Communication Design,2,0,1,1,1,6,5,13.8,20,132.9
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,1,6,6,13.625,18,117.2
+3rd phase - general contingent,Tourism,2,0,1,1,0,6,3,12.0,26,123.3
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,3,12.0,18,118.3
+2nd phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,4,11.75,19,113.6
+1st phase - general contingent,Basic Education,2,0,1,0,0,7,6,14.0,20,115.3
+2nd phase - general contingent,Management,2,0,1,0,0,5,2,12.0,18,118.7
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,6,2,12.666666666666666,21,98.9
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,6,3,13.75,18,113.4
+1st phase - general contingent,Social Service,2,0,1,0,0,6,4,12.0,20,103.5
+2nd phase - general contingent,Basic Education,2,0,1,0,0,6,5,10.4,19,126.0
+Over 23 years old,Nursing,2,0,1,0,1,7,6,11.685714285714283,27,121.7
+2nd phase - general contingent,Management,2,1,0,0,1,5,4,12.0,19,142.8
+1st phase - general contingent,Nursing,2,0,1,0,1,7,7,12.5,19,120.5
+Prior qualification,Veterinary Nursing,3,1,0,0,0,9,8,13.333333333333334,23,144.9
+1st phase - general contingent,Social Service,2,0,1,0,1,6,5,11.166666666666666,20,105.9
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,6,5,12.666666666666666,20,124.3
+2nd phase - general contingent,Management,2,0,1,1,0,5,4,12.5,18,122.7
+1st phase - general contingent,Veterinary Nursing,2,0,1,1,0,5,3,10.6,21,112.4
+1st phase - general contingent,Equinculture,2,0,1,0,0,6,6,13.0,20,138.0
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,138.3
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,5,10.8,19,124.3
+1st phase - general contingent,Journalism and Communication,2,0,1,0,1,6,3,11.666666666666666,19,126.9
+1st phase - general contingent,Management,2,0,1,0,1,5,3,12.666666666666666,19,123.5
+1st phase - general contingent,Equinculture,2,0,1,0,0,5,5,13.4,18,129.5
+1st phase - general contingent,Tourism,2,0,1,0,0,6,2,13.5,19,133.2
+2nd phase - general contingent,Social Service,2,0,1,0,1,6,4,12.25,21,133.5
+1st phase - general contingent,Tourism,2,0,1,0,1,6,5,11.0,18,122.0
+1st phase - general contingent,Nursing,2,0,1,0,1,8,6,12.875,18,125.1
+International student (bachelor),Informatics Engineering,2,1,1,0,0,5,2,11.0,19,160.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,4,12.25,20,114.0
+1st phase - general contingent,Management,2,0,1,1,0,5,4,13.0,20,117.8
+1st phase - general contingent,Nursing,2,0,1,1,0,8,6,12.041666666666666,18,114.3
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,6,1,10.0,19,129.7
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,5,4,12.0,19,122.4
+2nd phase - general contingent,Tourism,2,0,1,1,0,6,5,10.4,20,135.0
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,4,14.25,21,122.9
+2nd phase - general contingent,Management,2,0,1,1,0,5,4,11.4,18,124.2
+Prior qualification,Agronomy,3,0,1,1,0,6,5,11.5,20,130.0
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,2,12.5,20,123.7
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,0,1,6,5,12.2,25,96.0
+Over 23 years old,Agronomy,2,0,1,1,0,6,6,12.333333333333334,28,150.0
+Over 23 years old,Nursing,2,0,1,0,0,7,5,10.84,35,163.7
+Over 23 years old,Nursing,4,0,1,0,0,8,7,12.457142857142856,27,130.0
+Over 23 years old,Management (evening attendance),2,0,1,0,1,5,4,10.5,31,160.0
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,4,12.5,47,150.0
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,1,1,0,0,0.0,20,141.4
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,1,0,0,0,0.0,18,141.7
+Over 23 years old,Agronomy,2,0,1,0,0,6,3,13.0,39,100.7
+Prior qualification,Informatics Engineering,5,1,1,1,0,5,3,16.2,30,180.0
+Prior qualification,Management (evening attendance),3,0,1,0,0,7,6,12.5,41,140.0
+3rd phase - general contingent,Journalism and Communication,2,0,0,0,0,6,5,11.8,18,122.2
+2nd phase - general contingent,Management,2,1,1,1,0,5,0,0.0,18,143.6
+International student (bachelor),Biofuel Production Technologies,2,0,1,1,0,7,4,12.75,20,100.0
+2nd phase - general contingent,Equinculture,2,0,1,0,0,6,4,14.25,21,130.0
+Prior qualification,Equinculture,3,1,0,0,0,6,2,11.0,20,140.0
+2nd phase - general contingent,Veterinary Nursing,2,0,1,0,0,6,4,14.0,20,106.0
+International student (bachelor),Oral Hygiene,2,1,1,0,0,7,2,11.666666666666666,19,137.0
+1st phase - general contingent,Social Service (evening attendance),2,0,1,0,0,7,7,13.857142857142858,45,114.4
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,13.0,28,120.7
+1st phase special (islands),Animation and Multimedia Design,2,0,1,1,1,0,0,0.0,18,164.3
+1st phase special (islands),Communication Design,2,0,1,0,0,6,4,11.0,18,122.5
+1st phase - general contingent,Management,2,0,1,0,0,5,4,12.25,18,131.3
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,10.8,21,117.0
+1st phase - general contingent,Management,2,0,1,1,0,5,2,10.333333333333334,18,122.8
+2nd phase - general contingent,Management,2,0,1,1,0,5,4,11.75,19,118.4
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,5,4,11.0,19,128.1
+1st phase - general contingent,Nursing,2,0,1,1,0,8,6,12.5,22,99.0
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,6,4,14.25,21,111.3
+1st phase - general contingent,Tourism,2,0,1,1,0,6,3,10.333333333333334,18,121.5
+Prior qualification,Agronomy,3,1,1,1,0,10,8,11.625,20,130.0
+2nd phase - general contingent,Journalism and Communication,2,0,1,1,0,6,5,13.6,18,125.2
+1st phase special (islands),Veterinary Nursing,2,0,1,1,0,5,5,12.4,18,123.9
+Transfer / change,Social Service (evening attendance),2,0,1,1,0,11,11,12.818181818181818,54,100.0
+1st phase - general contingent,Nursing,2,0,1,0,0,8,7,14.514285714285714,19,124.3
+Prior qualification,Management (evening attendance),4,0,1,0,0,5,5,14.0,27,120.0
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,2,10.5,20,129.0
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,20,152.5
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,5,15.0,19,138.1
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,11.0,25,127.7
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,2,14.0,19,124.5
+1st phase - general contingent,Journalism and Communication,2,0,1,1,0,6,3,12.666666666666666,19,109.3
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,1,0,0,0,0.0,20,121.2
+1st phase - general contingent,Management,2,0,1,1,0,5,4,12.4,19,123.3
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,11.0,18,135.9
+1st phase - general contingent,Management,2,0,1,1,0,5,4,12.25,19,117.0
+Prior qualification,Management (evening attendance),3,0,1,0,0,7,7,12.0,31,130.0
+Prior qualification,Veterinary Nursing,3,1,0,0,0,6,2,11.5,24,140.0
+Over 23 years old,Nursing,2,0,1,1,1,8,1,10.0,33,130.0
+Prior qualification,Equinculture,3,0,1,0,1,6,4,10.75,20,130.0
+Over 23 years old,Social Service (evening attendance),2,0,1,1,0,11,9,11.0,44,172.0
+1st phase - general contingent,Nursing,2,0,1,1,0,8,7,13.75,18,118.1
+2nd phase - general contingent,Tourism,2,0,1,1,0,6,2,12.0,19,116.1
+Prior qualification,Agronomy,2,0,1,1,0,8,4,12.25,21,120.0
+2nd phase - general contingent,Communication Design,2,0,1,1,0,6,4,12.0,20,134.2
+Prior qualification,Informatics Engineering,3,0,1,1,0,5,2,10.5,20,150.0
+1st phase - general contingent,Informatics Engineering,2,0,0,1,1,5,5,14.2,18,143.4
+2nd phase - general contingent,Animation and Multimedia Design,2,1,1,1,0,11,10,12.272727272727272,19,143.6
+Prior qualification,Tourism,3,0,0,1,0,6,6,13.666666666666666,26,170.0
+Transfer / change,Management,2,1,1,1,0,8,3,10.333333333333334,32,115.2
+1st phase special (islands),Basic Education,2,0,1,0,1,6,5,12.0,23,121.4
+Over 23 years old,Management,2,0,1,0,0,5,4,10.0,24,134.8
+Transfer / change,Agronomy,2,0,1,1,0,6,4,12.0,25,140.0
+2nd phase - general contingent,Tourism,2,0,1,1,0,6,3,10.0,19,112.2
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,6,5,12.25,21,139.0
+2nd phase - general contingent,Management,2,1,1,1,0,5,2,12.0,19,116.1
+Transfer / change,Management,2,0,1,1,0,5,4,11.5,25,110.0
+Transfer / change,Nursing,2,0,1,0,0,7,6,12.333333333333334,21,118.4
+1st phase - general contingent,Informatics Engineering,2,0,1,1,1,5,3,11.5,19,111.1
+1st phase - general contingent,Informatics Engineering,2,0,0,1,1,5,4,12.0,18,126.8
+Over 23 years old,Agronomy,0,1,1,1,0,6,6,13.727272727272728,24,140.0
+Transfer / change,Veterinary Nursing,2,0,0,0,0,6,3,11.666666666666666,19,130.0
+1st phase - general contingent,Nursing,2,0,1,0,1,7,5,11.1,19,114.8
+2nd phase - general contingent,Management,2,0,1,0,0,5,0,0.0,19,138.6
+2nd phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,2,10.5,21,118.4
+1st phase - general contingent,Management,2,0,1,0,1,5,5,12.0,18,122.1
+Over 23 years old,Nursing,2,0,1,0,0,7,5,12.16,39,109.0
+1st phase - general contingent,Management,2,1,1,1,0,5,5,11.4,20,121.0
+Transfer / change,Tourism,2,0,1,1,0,6,4,11.0,19,122.1
+Transfer / change,Management (evening attendance),2,0,1,1,0,5,2,12.5,27,130.0
+Over 23 years old,Informatics Engineering,2,0,1,1,0,5,1,11.0,34,125.9
+Prior qualification,Informatics Engineering,3,1,1,1,0,6,6,14.636363636363637,41,160.0
+Over 23 years old,Nursing,2,0,1,0,0,7,3,11.725,48,115.2
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,145.3
+1st phase - general contingent,Communication Design,2,0,1,0,0,6,3,11.0,19,132.1
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,6,2,11.5,21,102.6
+2nd phase - general contingent,Basic Education,2,0,1,0,0,6,5,11.0,19,106.1
+Transfer / change,Advertising and Marketing Management,2,1,1,0,0,6,5,14.6,20,100.0
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,2,13.5,20,140.0
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,3,10.0,18,132.6
+1st phase - general contingent,Communication Design,2,0,0,0,1,6,5,13.0,18,124.8
+1st phase - general contingent,Nursing,2,0,1,0,0,8,5,12.46,17,133.8
+1st phase - general contingent,Social Service,2,0,1,0,0,6,2,11.5,18,122.6
+Prior qualification,Veterinary Nursing,3,1,0,0,0,9,6,13.0,24,130.0
+3rd phase - general contingent,Nursing,2,0,1,0,1,8,0,0.0,20,125.8
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,5,11.6,18,121.0
+2nd phase - general contingent,Basic Education,2,1,1,0,0,6,3,10.666666666666666,18,128.2
+Transfer / change,Social Service,2,1,1,0,0,10,3,11.0,20,112.6
+1st phase - general contingent,Nursing,2,0,1,0,0,7,7,12.62142857142857,19,110.0
+Prior qualification,Veterinary Nursing,2,0,1,0,0,6,3,13.0,20,140.0
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,0,0.0,34,130.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,5,12.2,18,112.0
+Over 23 years old,Social Service (evening attendance),2,1,1,0,0,6,4,11.75,25,119.5
+1st phase - general contingent,Tourism,2,0,1,0,0,6,5,13.0,21,101.8
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,11.75,34,170.0
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,1,0,0,0,0.0,17,133.5
+Transfer / change,Nursing,2,0,1,1,0,7,4,14.375,22,153.0
+1st phase - general contingent,Nursing,2,0,1,0,0,7,6,13.066666666666668,19,123.0
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,2,12.0,20,150.0
+3rd phase - general contingent,Basic Education,2,0,1,0,0,6,5,11.0,19,123.7
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,3,11.333333333333334,21,119.7
+2nd phase - general contingent,Journalism and Communication,2,0,1,0,0,6,5,11.833333333333334,21,117.0
+Transfer / change,Nursing,2,0,1,0,1,7,2,13.4,18,121.1
+1st phase special (islands),Communication Design,2,0,1,0,0,6,4,12.5,18,146.1
+2nd phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,3,11.8,18,126.8
+Prior qualification,Veterinary Nursing,3,0,1,0,0,5,3,15.333333333333334,19,150.0
+2nd phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,134.8
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,6,4,12.75,18,126.8
+2nd phase - general contingent,Nursing,2,0,1,0,0,8,7,12.728571428571428,18,131.1
+2nd phase - general contingent,Equinculture,2,1,0,0,0,6,5,14.166666666666666,18,131.8
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,5,12.333333333333334,21,130.0
+2nd phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,143.3
+2nd phase - general contingent,Social Service,2,0,1,0,0,6,2,10.5,19,136.2
+1st phase - general contingent,Communication Design,2,0,1,0,1,6,5,11.142857142857142,18,126.8
+2nd phase - general contingent,Animation and Multimedia Design,2,0,1,1,1,0,0,0.0,18,129.3
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,11.0,18,127.3
+1st phase - general contingent,Journalism and Communication,2,0,1,1,1,6,6,12.285714285714286,19,98.0
+2nd phase - general contingent,Management,2,0,1,1,0,5,4,12.25,20,122.0
+Transfer / change,Communication Design,2,0,1,1,0,6,4,10.333333333333334,19,112.5
+Prior qualification,Informatics Engineering,3,0,1,1,1,6,6,14.125,20,180.0
+Transfer / change,Management,2,0,1,1,0,5,3,13.333333333333334,22,130.8
+2nd phase - general contingent,Management,2,0,1,1,1,5,3,10.571428571428571,22,109.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,12.0,19,130.2
+1st phase - general contingent,Journalism and Communication,2,0,1,1,0,10,8,11.0,19,130.2
+Transfer / change,Informatics Engineering,2,0,1,1,0,5,3,11.666666666666666,18,100.0
+2nd phase - general contingent,Tourism,2,0,1,1,1,6,4,12.0,18,121.2
+1st phase - general contingent,Tourism,2,0,1,1,0,6,2,13.0,19,117.8
+Over 23 years old,Equinculture,2,0,1,1,0,6,3,11.333333333333334,24,110.0
+Over 23 years old,Veterinary Nursing,1,1,0,1,0,6,0,0.0,25,138.3
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,3,11.333333333333334,37,127.8
+Transfer / change,Informatics Engineering,2,0,1,1,0,5,2,10.5,19,100.0
+2nd phase - general contingent,Nursing,2,0,1,1,1,7,6,12.416666666666666,19,124.7
+Transfer / change,Nursing,2,0,1,1,1,8,0,0.0,21,124.1
+Prior qualification,Agronomy,3,0,1,1,0,6,2,11.5,20,130.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,1,6,6,12.714285714285714,19,116.1
+1st phase - general contingent,Basic Education,2,0,1,1,0,6,5,11.8,42,114.3
+3rd phase - general contingent,Veterinary Nursing,2,0,0,1,0,6,4,14.8,21,104.6
+1st phase - general contingent,Communication Design,2,0,1,1,0,6,3,11.0,19,136.6
+Prior qualification,Agronomy,3,0,1,1,0,6,4,10.5,21,140.0
+1st phase - general contingent,Communication Design,2,0,1,1,0,6,4,11.5,20,138.3
+Transfer / change,Informatics Engineering,2,0,1,1,0,5,2,11.5,19,117.5
+Prior qualification,Informatics Engineering,3,0,1,1,0,6,1,14.0,23,140.0
+2nd phase - general contingent,Communication Design,2,0,1,1,0,6,5,10.8,18,125.1
+1st phase - general contingent,Management,2,1,1,1,1,5,2,11.0,22,118.8
+3rd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,5,14.714285714285714,19,125.2
+1st phase - general contingent,Communication Design,2,0,1,1,1,6,6,12.166666666666666,22,107.6
+Transfer / change,Communication Design,2,0,1,1,0,6,4,16.5,38,100.0
+Over 23 years old,Nursing,2,0,1,1,0,7,7,14.085714285714284,27,126.0
+Transfer / change,Informatics Engineering,2,0,1,1,0,5,1,10.0,19,121.6
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,5,13.714285714285714,20,114.7
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,14.666666666666666,18,133.1
+Transfer / change,Advertising and Marketing Management,2,0,1,1,0,6,4,13.25,19,120.5
+Over 23 years old,Informatics Engineering,2,1,1,1,0,5,1,11.0,24,110.3
+Prior qualification,Informatics Engineering,3,0,1,1,0,5,2,11.666666666666666,22,140.0
+1st phase - general contingent,Agronomy,2,0,1,1,1,6,4,12.5,19,132.8
+1st phase - general contingent,Animation and Multimedia Design,2,1,1,1,0,17,11,11.909090909090908,23,127.2
+1st phase - general contingent,Journalism and Communication,2,0,0,1,0,6,5,13.8,29,133.4
+Prior qualification,Agronomy,2,0,1,1,0,6,5,11.77777777777778,20,140.0
+2nd phase - general contingent,Animation and Multimedia Design,2,0,1,1,0,0,0,0.0,22,117.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,6,6,12.0,20,110.7
+Over 23 years old,Equinculture,2,0,1,1,0,5,3,12.0,24,160.0
+Prior qualification,Agronomy,2,1,1,1,0,12,9,11.444444444444445,21,130.0
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,0,0.0,20,115.8
+1st phase - general contingent,Journalism and Communication,2,0,1,1,0,6,3,10.666666666666666,22,126.1
+1st phase - general contingent,Management,2,0,1,1,0,5,3,12.333333333333334,18,126.3
+Transfer / change,Journalism and Communication,2,0,1,1,0,6,3,12.333333333333334,22,124.2
+1st phase - general contingent,Journalism and Communication,2,0,1,1,0,6,5,12.4,19,136.1
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,12.5,43,120.0
+Over 23 years old,Agronomy,2,0,1,1,0,6,5,13.4,24,129.8
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,13.0,18,126.6
+Transfer / change,Veterinary Nursing,2,0,1,1,0,5,3,11.666666666666666,21,120.0
+Over 23 years old,Social Service (evening attendance),2,0,1,1,0,6,3,11.0,39,108.3
+Over 23 years old,Nursing,2,0,1,1,0,7,4,12.6,34,100.0
+1st phase - general contingent,Animation and Multimedia Design,2,1,0,1,0,0,0,0.0,18,118.1
+International student (bachelor),Animation and Multimedia Design,2,0,1,1,0,11,11,13.083333333333334,21,130.0
+1st phase - general contingent,Management,2,0,1,1,0,5,1,13.0,27,146.4
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,1,16.0,18,148.5
+Prior qualification,Agronomy,3,0,1,1,1,6,6,12.3,20,140.0
+Prior qualification,Equinculture,3,0,1,1,0,6,2,11.0,19,150.0
+1st phase - general contingent,Tourism,2,0,1,1,0,6,5,12.2,23,140.8
+Transfer / change,Animation and Multimedia Design,2,0,1,1,0,0,0,0.0,22,120.0
+2nd phase - general contingent,Management,2,0,1,1,0,5,2,12.5,20,123.2
+2nd phase - general contingent,Journalism and Communication,2,0,1,1,0,6,4,10.25,20,127.9
+1st phase - general contingent,Management,2,0,1,1,0,5,2,13.5,19,120.3
+International student (bachelor),Nursing,2,0,1,0,0,7,5,12.419999999999998,18,190.0
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,1,10.0,20,121.0
+2nd phase - general contingent,Equinculture,2,0,1,0,1,6,6,13.0,18,126.3
+2nd phase - general contingent,Basic Education,2,0,1,0,0,6,4,10.75,19,130.2
+Transfer / change,Equinculture,2,0,1,0,0,5,5,15.142857142857142,19,100.0
+Prior qualification,Agronomy,3,0,1,0,0,6,4,11.5,19,140.0
+2nd phase - general contingent,Communication Design,2,0,1,0,1,6,6,14.333333333333334,20,153.1
+3rd phase - general contingent,Informatics Engineering,2,1,1,1,0,5,3,11.333333333333334,18,124.9
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,2,10.5,18,150.8
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,18,163.6
+Transfer / change,Management,2,0,1,0,0,5,2,10.666666666666666,19,115.0
+1st phase - general contingent,Social Service,2,0,1,0,0,5,0,0.0,20,126.0
+Over 23 years old,Social Service (evening attendance),2,0,1,0,0,6,5,11.2,26,105.0
+Over 23 years old,Management,1,1,1,0,0,5,5,12.2,41,139.4
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,11.25,26,138.5
+3rd phase - general contingent,Management,2,0,1,0,0,5,3,12.666666666666666,21,108.7
+1st phase - general contingent,Management,2,0,1,0,0,5,1,11.0,24,106.0
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,5,12.2,18,127.4
+1st phase - general contingent,Basic Education,2,1,0,0,0,7,6,13.166666666666666,22,95.0
+2nd phase - general contingent,Management,2,0,1,0,0,5,1,12.0,23,115.0
+2nd phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,4,12.0,21,121.3
+2nd phase - general contingent,Basic Education,2,0,1,0,0,6,5,12.0,18,121.2
+2nd phase - general contingent,Tourism,2,0,1,0,0,6,3,11.333333333333334,22,112.9
+Transfer / change,Communication Design,2,0,1,0,0,11,10,11.9,29,115.9
+1st phase - general contingent,Nursing,2,0,1,1,0,7,7,12.2,19,125.3
+1st phase - general contingent,Management,2,0,1,1,1,5,4,11.75,18,111.3
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,5,14.333333333333334,28,144.8
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,6,4,13.0,20,129.9
+Transfer / change,Communication Design,2,0,1,1,0,8,7,12.142857142857142,26,126.4
+1st phase - general contingent,Nursing,2,0,1,1,0,8,8,13.22222222222222,20,121.4
+2nd phase - general contingent,Basic Education,2,0,1,1,1,6,6,12.5,20,111.9
+Over 23 years old,Nursing,0,0,1,1,0,8,7,11.635714285714286,43,100.5
+2nd phase - general contingent,Informatics Engineering,2,1,1,1,0,5,5,11.285714285714286,18,123.3
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,4,12.5,40,114.3
+1st phase - general contingent,Tourism,2,0,1,1,0,6,4,11.25,27,97.0
+Prior qualification,Agronomy,3,1,1,1,0,6,0,0.0,26,140.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,12.0,20,122.5
+Transfer / change,Management,2,0,1,1,0,5,3,10.0,20,115.7
+1st phase - general contingent,Informatics Engineering,2,1,1,1,0,5,0,0.0,20,166.0
+Over 23 years old,Nursing,2,1,1,1,0,7,6,13.5,30,125.3
+2nd phase - general contingent,Advertising and Marketing Management,2,1,0,1,0,6,4,13.4,21,109.1
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,5,0,0.0,19,108.0
+Over 23 years old,Oral Hygiene,2,0,1,0,0,8,7,12.042857142857144,25,130.0
+Over 23 years old,Oral Hygiene,2,0,1,0,1,8,0,0.0,26,112.8
+2nd phase - general contingent,Management,2,0,1,0,0,5,4,11.75,19,128.3
+Transfer / change,Veterinary Nursing,2,0,1,0,0,6,3,13.666666666666666,21,100.0
+1st phase - general contingent,Equinculture,2,0,1,0,0,5,2,10.5,21,123.0
+Over 23 years old,Veterinary Nursing,2,0,0,0,0,6,5,14.5,26,120.0
+1st phase - general contingent,Nursing,2,0,1,0,0,8,7,14.014285714285714,20,122.0
+2nd phase - general contingent,Social Service,2,0,1,0,0,6,3,13.333333333333334,18,110.7
+1st phase - general contingent,Nursing,2,1,1,1,0,8,6,11.808333333333332,20,102.2
+Prior qualification,Agronomy,3,0,1,1,0,6,0,0.0,23,120.0
+Prior qualification,Agronomy,3,0,1,1,0,6,4,12.0,20,130.0
+Transfer / change,Social Service (evening attendance),2,0,1,0,0,7,6,10.833333333333334,45,100.0
+Over 23 years old,Social Service (evening attendance),0,0,1,0,1,6,3,11.666666666666666,26,111.0
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,3,11.25,25,130.1
+1st phase - general contingent,Nursing,2,0,1,1,0,8,5,12.858,19,117.5
+1st phase - general contingent,Nursing,2,0,1,0,1,7,7,11.242857142857142,19,120.2
+2nd phase - general contingent,Animation and Multimedia Design,2,0,1,0,1,0,0,0.0,18,136.1
+Transfer / change,Advertising and Marketing Management,2,0,1,0,0,6,5,12.6,19,122.4
+Transfer / change,Journalism and Communication,2,0,1,0,0,6,2,11.0,23,105.0
+1st phase - general contingent,Social Service,2,0,1,0,0,6,6,12.666666666666666,20,129.9
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,5,4,11.0,19,111.3
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,0,0.0,29,127.6
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,6,14.142857142857142,18,126.6
+1st phase - general contingent,Nursing,2,0,1,0,0,7,6,12.116666666666667,19,120.1
+1st phase - general contingent,Management,2,0,1,0,1,5,4,13.857142857142858,19,117.8
+Transfer / change,Journalism and Communication,2,0,1,0,0,6,3,11.0,18,117.6
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,0,1,6,5,14.6,19,109.1
+1st phase - general contingent,Nursing,2,0,1,0,0,7,5,13.7,19,120.3
+1st phase - general contingent,Communication Design,2,0,1,0,0,6,6,12.833333333333334,18,136.4
+2nd phase - general contingent,Management,2,0,1,0,0,5,4,11.0,18,124.4
+Over 23 years old,Agronomy,2,1,0,0,0,6,6,12.833333333333334,34,120.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,5,2,11.0,22,111.8
+Over 23 years old,Management,2,0,1,0,0,5,5,12.2,50,108.0
+Over 23 years old,Veterinary Nursing,2,0,1,0,1,6,2,11.333333333333334,25,110.0
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,3,11.0,50,119.9
+Transfer / change,Social Service (evening attendance),1,0,1,0,0,6,4,12.5,48,106.0
+Over 23 years old,Management,2,0,1,0,0,5,5,13.0,41,140.0
+Transfer / change,Management (evening attendance),2,0,1,0,0,10,9,11.333333333333334,28,117.3
+Transfer / change,Management,2,0,1,0,0,13,12,11.666666666666666,53,118.0
+Over 23 years old,Social Service (evening attendance),2,0,1,0,0,6,4,11.5,49,106.8
+Transfer / change,Social Service,2,0,1,0,0,7,5,11.2,22,114.3
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,5,12.0,40,147.8
+Transfer / change,Management (evening attendance),4,0,1,0,0,12,12,11.4375,36,120.0
+Over 23 years old,Social Service (evening attendance),2,0,1,0,1,6,5,11.8,48,119.0
+Over 23 years old,Social Service (evening attendance),2,0,1,0,0,6,0,0.0,34,117.5
+1st phase - general contingent,Nursing,2,0,1,0,0,8,1,13.67,19,127.0
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,10.75,34,127.1
+Over 23 years old,Oral Hygiene,2,0,1,0,0,8,8,12.3,28,152.8
+Over 23 years old,Advertising and Marketing Management,2,0,1,0,0,5,3,12.333333333333334,35,100.0
+2nd phase - general contingent,Nursing,2,0,1,0,0,8,0,0.0,18,133.0
+1st phase special (islands),Veterinary Nursing,2,0,1,0,0,5,4,13.0,18,139.4
+Transfer / change,Basic Education,2,0,1,0,0,6,4,11.5,20,110.0
+1st phase - general contingent,Tourism,2,0,1,0,0,6,5,11.2,18,125.1
+2nd phase - general contingent,Management,2,0,1,0,0,5,4,11.5,20,112.0
+Over 23 years old,Nursing,2,0,1,0,0,8,7,12.714285714285714,24,130.0
+2nd phase - general contingent,Management,2,0,1,0,1,5,4,11.75,19,124.6
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,6,12.571428571428571,18,139.8
+2nd phase - general contingent,Nursing,2,0,1,0,0,8,7,12.757142857142856,18,128.8
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,4,10.25,19,126.0
+Transfer / change,Management,2,0,1,0,0,5,3,10.857142857142858,19,112.3
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,6,14.0,19,137.4
+1st phase - general contingent,Nursing,2,0,1,0,0,7,5,11.9,19,124.3
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,1,6,4,10.571428571428571,20,111.9
+Over 23 years old,Informatics Engineering,2,0,1,1,0,5,3,13.666666666666666,33,149.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,6,5,11.6,20,143.6
+Transfer / change,Informatics Engineering,2,1,0,1,0,5,0,0.0,27,128.0
+Prior qualification,Management,4,0,1,0,0,5,4,12.0,33,110.0
+2nd phase - general contingent,Basic Education,2,0,1,0,1,6,5,12.833333333333334,20,128.4
+1st phase - general contingent,Social Service,2,0,1,0,0,6,6,11.666666666666666,19,135.9
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,6,12.5,18,121.1
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,5,12.375,19,144.1
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,3,13.333333333333334,21,115.0
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,0,1,5,4,11.75,19,118.4
+2nd phase - general contingent,Social Service,2,0,1,0,0,6,3,11.666666666666666,21,116.9
+1st phase - general contingent,Nursing,2,0,1,0,0,8,8,13.8375,21,119.6
+2nd phase - general contingent,Nursing,2,0,1,0,0,8,5,13.2,18,135.4
+1st phase - general contingent,Basic Education,2,0,1,0,1,6,4,11.5,19,126.9
+1st phase - general contingent,Nursing,2,0,1,0,0,7,6,11.77142857142857,20,102.4
+2nd phase - general contingent,Management,2,0,1,0,0,5,4,10.75,20,125.7
+1st phase - general contingent,Equinculture,2,0,1,0,0,5,2,13.0,20,109.3
+1st phase - general contingent,Nursing,2,0,1,0,0,7,6,11.783333333333331,18,115.6
+1st phase - general contingent,Management,2,0,1,0,0,5,3,11.333333333333334,18,117.8
+2nd phase - general contingent,Tourism,2,0,1,1,0,6,3,14.666666666666666,21,123.1
+Transfer / change,Communication Design,2,0,1,1,1,6,2,11.333333333333334,20,122.8
+2nd phase - general contingent,Social Service,2,0,1,0,1,6,6,10.833333333333334,19,120.2
+Transfer / change,Nursing,2,0,1,1,1,7,5,11.2,19,125.7
+Over 23 years old,Informatics Engineering,2,0,1,1,0,5,4,11.0,28,137.0
+1st phase - general contingent,Management,2,0,1,1,0,5,3,11.0,21,116.4
+Transfer / change,Management (evening attendance),2,1,1,1,0,10,9,12.555555555555555,24,128.2
+Transfer / change,Agronomy,2,0,1,1,0,6,5,12.142857142857142,23,140.0
+1st phase - general contingent,Journalism and Communication,2,0,1,1,0,6,3,12.0,20,122.8
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,1,0,0,0,0.0,18,118.4
+Transfer / change,Social Service (evening attendance),2,0,1,0,0,11,7,11.571428571428571,23,134.7
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,4,12.2,23,150.0
+Over 23 years old,Management,2,0,1,0,0,5,4,11.5,39,142.5
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,5,4,12.0,22,110.2
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,5,10.4,30,130.4
+Over 23 years old,Management (evening attendance),3,0,1,0,1,5,5,11.8,35,110.0
+Transfer / change,Nursing,2,0,1,0,0,7,6,12.0,26,120.0
+Prior qualification,Management,3,0,1,0,0,9,9,11.6,30,132.4
+Over 23 years old,Management (evening attendance),2,1,1,1,0,5,4,12.0,25,132.0
+2nd phase - general contingent,Nursing,2,0,1,0,0,8,7,13.68142857142857,18,130.8
+Transfer / change,Nursing,2,0,1,0,0,7,6,12.616666666666667,23,114.5
+2nd phase - general contingent,Nursing,2,0,1,0,1,7,6,12.8,18,126.2
+Transfer / change,Communication Design,1,1,1,0,0,6,6,10.166666666666666,31,106.6
+1st phase - general contingent,Tourism,2,0,1,1,0,6,5,12.4,20,118.3
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,1,0,7,2,10.0,19,118.8
+Over 23 years old,Informatics Engineering,2,1,1,1,1,5,2,11.0,34,116.0
+2nd phase - general contingent,Management,2,0,1,1,0,5,3,11.428571428571429,21,99.0
+2nd phase - general contingent,Journalism and Communication,2,0,1,1,0,6,1,10.0,21,132.5
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,6,4,10.428571428571429,24,133.4
+2nd phase - general contingent,Advertising and Marketing Management,2,1,0,1,0,6,4,13.0,20,123.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,2,10.0,19,153.7
+1st phase - general contingent,Social Service (evening attendance),2,0,1,1,0,6,6,11.666666666666666,26,127.6
+Prior qualification,Informatics Engineering,3,0,1,1,0,5,3,12.6,20,130.0
+1st phase - general contingent,Management,2,0,1,0,0,5,5,12.0,21,135.0
+1st phase - general contingent,Management (evening attendance),2,0,1,1,0,5,3,12.0,26,113.6
+1st phase - general contingent,Nursing,2,0,1,0,1,8,7,14.06,19,132.3
+1st phase - general contingent,Management,2,0,1,0,0,5,3,11.714285714285714,19,124.4
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,3,11.333333333333334,19,122.8
+Transfer / change,Social Service,2,0,1,0,1,6,5,12.4,21,108.3
+1st phase - general contingent,Management,2,0,1,0,0,5,3,14.5,19,118.9
+Transfer / change,Management,2,0,1,0,0,5,4,13.25,18,126.1
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,5,13.6,20,125.7
+Transfer / change,Management (evening attendance),2,0,1,0,0,5,4,11.25,32,113.7
+1st phase special (islands),Basic Education,2,0,1,0,0,6,5,11.8,19,121.1
+1st phase special (islands),Advertising and Marketing Management,2,0,1,0,0,6,4,14.0,19,140.3
+2nd phase - general contingent,Management,2,0,1,0,0,5,0,0.0,18,133.4
+2nd phase - general contingent,Nursing,2,0,1,0,0,8,6,14.775,20,125.7
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,6,12.5,19,144.8
+3rd phase - general contingent,Management,2,0,1,0,0,5,2,11.0,24,101.8
+Transfer / change,Management (evening attendance),2,0,1,0,0,12,9,10.333333333333334,29,122.5
+2nd phase - general contingent,Oral Hygiene,2,0,1,0,0,7,7,12.814285714285717,19,119.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,5,13.625,19,115.1
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,5,12.125,24,151.6
+Over 23 years old,Nursing,2,1,1,0,0,7,5,13.5,28,121.4
+Transfer / change,Nursing,2,0,1,0,0,8,5,13.126,38,103.7
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,5,11.8,19,146.0
+1st phase - general contingent,Management,2,0,1,0,0,4,2,11.5,20,128.6
+1st phase - general contingent,Management (evening attendance),2,0,1,0,0,5,4,10.25,29,124.6
+1st phase - general contingent,Nursing,2,0,1,0,1,8,7,12.771428571428572,19,124.0
+Over 23 years old,Social Service,2,1,1,1,0,6,1,10.0,28,124.0
+Over 23 years old,Agronomy,2,0,1,1,0,6,0,0.0,27,140.0
+1st phase - general contingent,Management,2,0,1,1,1,5,4,12.25,18,119.5
+Prior qualification,Equinculture,3,0,1,1,0,6,2,15.0,20,140.0
+Transfer / change,Journalism and Communication,2,0,1,1,0,6,4,11.25,23,121.0
+Transfer / change,Advertising and Marketing Management,2,0,1,1,0,5,3,10.333333333333334,21,113.2
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,5,14.6,34,146.0
+1st phase - general contingent,Nursing,2,0,1,1,0,8,7,13.475,20,115.7
+Transfer / change,Agronomy,3,0,1,1,0,10,9,13.11111111111111,24,128.2
+Over 23 years old,Management (evening attendance),2,0,1,1,0,5,4,12.75,39,140.0
+2nd phase - general contingent,Veterinary Nursing,2,0,0,1,0,6,5,13.666666666666666,19,122.5
+Over 23 years old,Management (evening attendance),1,0,1,1,0,5,3,11.333333333333334,38,121.5
+1st phase - general contingent,Nursing,2,0,1,1,0,8,5,12.16,21,135.4
+2nd phase - general contingent,Advertising and Marketing Management,2,1,1,1,0,6,5,13.2,19,122.0
+Over 23 years old,Tourism,1,0,1,1,0,6,4,11.8,25,119.3
+1st phase - general contingent,Communication Design,2,0,1,1,0,6,6,12.142857142857142,19,125.0
+Over 23 years old,Nursing,0,0,1,1,0,7,0,0.0,33,100.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,0,0.0,18,125.7
+2nd phase - general contingent,Management,2,1,0,1,0,5,5,10.5,19,115.5
+1st phase - general contingent,Management,2,0,1,1,0,5,0,0.0,19,116.7
+2nd phase - general contingent,Nursing,2,0,1,1,0,8,7,13.154285714285717,18,125.5
+1st phase - general contingent,Equinculture,2,0,1,1,0,5,5,11.4,19,117.6
+Prior qualification,Agronomy,3,0,1,1,0,6,3,12.75,22,150.0
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,12.0,18,121.7
+Transfer / change,Animation and Multimedia Design,2,0,1,1,0,0,0,0.0,22,121.6
+1st phase - general contingent,Animation and Multimedia Design,2,1,1,1,0,0,0,0.0,19,117.0
+Prior qualification,Informatics Engineering,3,0,1,1,0,5,3,11.6,19,130.0
+International student (bachelor),Informatics Engineering,2,1,1,1,0,6,6,11.833333333333334,24,100.0
+1st phase - general contingent,Informatics Engineering,2,0,0,1,1,5,5,14.2,18,129.8
+1st phase - general contingent,Social Service,2,0,1,0,0,6,1,13.0,20,121.0
+1st phase - general contingent,Journalism and Communication,2,0,1,0,1,6,5,11.2,18,131.0
+Prior qualification,Social Service,3,1,1,0,0,6,2,12.5,21,136.1
+Over 23 years old,Basic Education,0,1,0,0,0,7,6,12.666666666666666,33,108.0
+Over 23 years old,Veterinary Nursing,2,0,1,0,0,6,4,12.8,26,144.9
+Transfer / change,Advertising and Marketing Management,3,0,1,0,0,6,4,13.25,21,110.0
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,5,11.8,20,140.0
+Prior qualification,Veterinary Nursing,3,0,1,0,0,5,4,11.25,20,150.0
+Over 23 years old,Agronomy,0,0,1,1,0,6,5,12.142857142857142,43,140.0
+Over 23 years old,Management,2,0,1,1,0,5,5,10.2,26,119.8
+Transfer / change,Equinculture,2,0,1,1,0,5,3,14.0,33,130.0
+2nd phase - general contingent,Tourism,2,0,1,1,0,6,2,10.5,19,125.0
+2nd phase - general contingent,Communication Design,2,0,1,1,0,6,5,11.4,18,120.2
+1st phase - general contingent,Management,2,1,1,1,1,5,3,12.833333333333334,21,111.6
+1st phase - general contingent,Management,2,0,1,1,0,5,2,12.5,20,124.8
+Prior qualification,Agronomy,2,0,1,1,0,6,0,0.0,19,120.0
+Over 23 years old,Informatics Engineering,2,0,1,1,1,5,4,14.0,24,134.0
+1st phase - general contingent,Tourism,2,0,1,1,0,6,2,11.5,21,125.0
+Over 23 years old,Informatics Engineering,2,0,1,1,1,5,5,12.428571428571429,28,123.0
+Transfer / change,Veterinary Nursing,4,0,1,0,0,6,4,15.6,28,125.0
+Prior qualification,Veterinary Nursing,2,0,1,0,0,6,4,12.0,20,130.0
+1st phase - general contingent,Basic Education,2,0,1,0,0,6,5,11.6,23,112.6
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,2,13.5,23,160.0
+Transfer / change,Oral Hygiene,2,0,1,0,0,8,3,11.666666666666666,25,100.0
+1st phase - general contingent,Nursing,2,0,1,0,1,7,6,12.385714285714286,19,106.4
+Prior qualification,Agronomy,3,0,1,1,1,6,3,11.666666666666666,20,150.0
+Prior qualification,Agronomy,3,0,1,1,0,6,6,11.333333333333334,19,130.0
+Transfer / change,Nursing,2,0,1,0,1,7,5,12.86,18,123.6
+1st phase - general contingent,Nursing,2,0,1,0,0,8,7,12.820000000000002,18,126.1
+Prior qualification,Agronomy,3,0,1,1,0,6,2,11.5,22,120.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,1,15.0,18,129.8
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,1,0,6,5,13.25,19,135.7
+Transfer / change,Communication Design,2,0,1,1,0,12,7,11.857142857142858,34,108.0
+1st phase - general contingent,Tourism,2,0,1,1,1,6,3,11.666666666666666,19,122.9
+1st phase - general contingent,Social Service,2,0,1,1,0,6,3,11.333333333333334,20,118.7
+1st phase - general contingent,Tourism,2,0,1,0,1,6,5,15.0,20,120.0
+1st phase - general contingent,Social Service,2,0,1,0,1,6,4,10.75,19,107.3
+3rd phase - general contingent,Basic Education,2,1,1,0,0,7,6,12.5,21,106.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,6,6,13.428571428571429,18,124.1
+1st phase - general contingent,Nursing,2,0,1,0,0,7,5,13.82,21,114.8
+2nd phase - general contingent,Communication Design,2,0,1,1,0,6,0,0.0,22,122.6
+Prior qualification,Management,4,0,1,0,0,7,5,11.25,33,120.0
+2nd phase - general contingent,Tourism,2,0,1,0,1,6,3,11.0,20,123.5
+Over 23 years old,Management,2,0,1,0,0,5,4,11.857142857142858,35,131.8
+1st phase - general contingent,Social Service,2,0,1,0,0,6,3,13.666666666666666,22,136.7
+2nd phase - general contingent,Journalism and Communication,2,0,1,0,0,6,5,11.6,20,130.7
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,5,3,13.0,20,119.7
+1st phase - general contingent,Animation and Multimedia Design,2,1,1,1,0,11,9,11.7,21,136.2
+Transfer / change,Management,2,0,1,1,0,5,0,0.0,23,124.2
+Over 23 years old,Agronomy,2,0,1,0,0,6,4,11.25,24,135.4
+1st phase - general contingent,Management,2,1,1,0,0,5,2,10.0,19,115.2
+1st phase - general contingent,Tourism,2,0,1,0,0,6,4,12.5,19,125.1
+1st phase - general contingent,Tourism,2,0,1,0,0,6,2,13.5,22,125.9
+Over 23 years old,Management,2,0,1,0,0,5,4,13.375,36,124.6
+1st phase - general contingent,Nursing,2,0,1,0,1,7,0,0.0,20,108.3
+Over 23 years old,Journalism and Communication,0,0,1,0,0,6,5,12.6,40,133.0
+1st phase special (islands),Management,2,0,1,0,0,5,3,10.5,19,117.3
+International student (bachelor),Oral Hygiene,2,0,1,0,0,7,2,11.666666666666666,20,114.0
+1st phase - general contingent,Management (evening attendance),2,0,1,0,1,5,5,11.4,38,139.0
+1st phase - general contingent,Animation and Multimedia Design,2,0,1,1,1,11,10,12.818181818181818,19,128.2
+2nd phase - general contingent,Social Service,2,0,1,0,1,6,5,11.4,21,122.0
+2nd phase - general contingent,Nursing,2,0,1,0,0,8,7,12.285714285714286,18,136.3
+Transfer / change,Communication Design,2,0,1,0,0,6,6,12.75,19,140.8
+Transfer / change,Agronomy,3,0,1,0,0,6,4,13.666666666666666,22,140.0
+2nd phase - general contingent,Animation and Multimedia Design,2,1,1,0,0,17,11,11.25,22,135.5
+Transfer / change,Social Service (evening attendance),2,0,1,0,0,6,5,14.0,20,118.3
+Over 23 years old,Social Service,0,0,1,0,0,6,6,13.0,31,130.0
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,1,6,5,12.8,18,131.8
+1st phase - general contingent,Veterinary Nursing,2,1,1,0,0,5,4,11.0,21,130.7
+2nd phase - general contingent,Tourism,2,0,1,0,0,6,4,12.0,19,109.8
+Over 23 years old,Nursing,2,0,1,0,1,8,7,13.29,25,120.0
+Transfer / change,Management (evening attendance),2,0,1,0,0,10,9,10.444444444444445,33,107.8
+Transfer / change,Oral Hygiene,2,0,1,0,0,8,8,12.625,20,140.2
+1st phase - general contingent,Management,2,0,1,0,0,5,4,11.75,19,124.0
+1st phase - general contingent,Communication Design,2,0,1,0,0,6,3,13.333333333333334,20,129.8
+1st phase - general contingent,Veterinary Nursing,2,0,0,0,0,6,6,12.5,18,138.4
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,1,5,5,11.4,19,133.7
+Transfer / change,Nursing,2,0,1,0,1,8,7,11.971428571428572,24,115.4
+1st phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,4,13.5,19,129.1
+Prior qualification,Veterinary Nursing,3,0,1,0,0,12,8,12.2,21,140.0
+1st phase - general contingent,Tourism,2,0,1,0,0,6,5,11.6,18,114.2
+Over 23 years old,Oral Hygiene,2,0,1,0,0,8,7,12.15,24,113.3
+Transfer / change,Oral Hygiene,2,0,1,0,0,8,8,11.8375,22,123.5
+Over 23 years old,Veterinary Nursing,2,0,0,0,1,6,2,10.0,44,154.6
+1st phase - general contingent,Management,2,0,1,0,0,5,2,11.0,20,120.2
+1st phase - general contingent,Animation and Multimedia Design,2,1,1,0,0,0,0,0.0,19,143.8
+1st phase - general contingent,Nursing,2,0,1,0,1,8,7,13.242857142857144,18,118.0
+2nd phase - general contingent,Tourism,2,0,0,0,0,6,5,11.8,18,110.3
+3rd phase - general contingent,Management (evening attendance),2,0,1,0,1,5,4,11.8,21,145.0
+3rd phase - general contingent,Basic Education,2,0,1,0,0,6,3,11.333333333333334,20,110.0
+1st phase - general contingent,Social Service,2,0,1,0,1,6,4,11.0,18,121.7
+Transfer / change,Management,2,0,1,0,0,5,1,14.0,18,123.7
+Over 23 years old,Veterinary Nursing,2,1,1,0,0,6,5,12.0,27,148.2
+2nd phase - general contingent,Basic Education,2,1,1,0,0,6,3,10.666666666666666,18,121.8
+1st phase - general contingent,Management (evening attendance),2,0,1,0,0,5,0,0.0,20,118.4
+2nd phase - general contingent,Veterinary Nursing,2,0,1,0,0,5,4,11.75,19,123.3
+Prior qualification,Veterinary Nursing,3,0,1,0,0,6,4,11.5,20,140.0
+2nd phase - general contingent,Basic Education,2,0,1,0,0,6,5,11.6,22,132.5
+1st phase special (islands),Basic Education,2,0,1,0,0,6,4,10.25,22,118.3
+2nd phase - general contingent,Animation and Multimedia Design,2,0,1,0,0,0,0,0.0,20,143.9
+2nd phase - general contingent,Journalism and Communication,2,0,1,0,0,6,6,13.333333333333334,18,135.0
+Over 23 years old,Social Service (evening attendance),2,0,1,0,0,6,5,13.0,45,134.5
+Over 23 years old,Management (evening attendance),2,1,1,0,0,5,4,12.0,25,130.0
+1st phase - general contingent,Management,2,0,1,1,0,5,4,11.25,20,107.4
+1st phase - general contingent,Social Service,2,0,1,1,0,6,3,11.0,22,100.0
+1st phase - general contingent,Nursing,2,0,1,1,0,7,6,13.016666666666666,20,121.5
+1st phase - general contingent,Communication Design,2,0,1,0,0,6,6,10.375,18,136.6
+2nd phase - general contingent,Advertising and Marketing Management,2,0,1,0,0,5,4,12.75,21,117.1
+Prior qualification,Animation and Multimedia Design,3,0,1,1,0,0,0,0.0,21,140.0
+2nd phase - general contingent,Communication Design,2,0,1,1,0,6,1,10.0,18,141.0
+2nd phase - general contingent,Veterinary Nursing,2,0,1,1,0,5,3,12.666666666666666,18,118.9
+1st phase - general contingent,Tourism,2,0,1,1,0,6,5,12.6,25,134.5
+2nd phase - general contingent,Informatics Engineering,2,0,1,1,0,5,3,12.333333333333334,18,133.0
+1st phase - general contingent,Veterinary Nursing,2,0,1,1,0,6,0,0.0,21,105.0
+Over 23 years old,Oral Hygiene,2,0,1,1,1,7,7,11.857142857142858,24,110.0
+1st phase - general contingent,Management,2,0,1,1,0,5,3,11.0,22,134.7
+Over 23 years old,Agronomy,2,0,1,1,0,10,6,11.0,28,120.0
+1st phase - general contingent,Informatics Engineering,2,0,1,1,0,5,1,10.0,18,123.5
+International student (bachelor),Management,2,1,1,1,0,5,4,11.25,21,135.0
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,12.0,28,147.9
+1st phase - general contingent,Management,2,0,1,0,0,5,2,12.5,21,118.8
+1st phase - general contingent,Journalism and Communication,2,0,1,0,0,6,1,17.0,20,117.1
+1st phase - general contingent,Advertising and Marketing Management,2,0,1,0,1,5,4,12.5,18,127.2
+2nd phase - general contingent,Nursing,2,0,1,0,0,7,6,12.571428571428571,18,128.5
+Over 23 years old,Management (evening attendance),2,0,1,0,0,5,4,12.8,30,146.2
+2nd phase - general contingent,Social Service,2,0,1,0,0,6,4,10.75,18,123.6
+1st phase - general contingent,Nursing,2,0,1,1,0,7,6,11.833333333333334,18,120.0
+1st phase - general contingent,Social Service,2,0,1,0,0,6,6,10.833333333333334,19,121.2
+1st phase - general contingent,Social Service,2,0,1,0,0,5,0,0.0,20,121.4
+Prior qualification,Nursing,4,0,1,0,0,8,7,12.06375,32,130.0
+1st phase - general contingent,Management,2,0,1,0,0,5,5,11.0,18,138.4
+1st phase special (islands),Basic Education,2,0,1,0,0,6,3,11.666666666666666,21,110.4
+3rd phase - general contingent,Basic Education,2,0,1,1,0,6,6,13.0,18,126.8
+1st phase - general contingent,Communication Design,2,0,1,1,0,6,2,11.333333333333334,20,127.5
+Transfer / change,Communication Design,2,0,1,1,1,6,5,12.2,19,133.4
+Transfer / change,Biofuel Production Technologies,2,0,1,1,0,8,2,13.0,25,121.2
